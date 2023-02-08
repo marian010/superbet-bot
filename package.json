@@ -4,24 +4,25 @@
     "description": "Bot for superbet.ro spin",
     "main": "index.js",
     "directories": {
-      "lib": "lib"
+        "lib": "lib"
     },
     "dependencies": {
-      "puppeteer": "^13.0.1"
+        "dotenv": "^16.0.3",
+        "puppeteer": "^13.0.1"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/marian010/superbet-bot.git"
+        "type": "git",
+        "url": "git+https://github.com/marian010/superbet-bot.git"
     },
     "keywords": [
-      "superbet", "automatization",
-      "puppeteer"
+        "superbet",
+        "automatization",
+        "puppeteer"
     ],
     "author": "Adrian",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/marian010/superbet-bot/issues"
+        "url": "https://github.com/marian010/superbet-bot/issues"
     },
-    "homepage": "https://github.com/marian010/superbet-bot#readme",
-    "devDependencies": {}
+    "homepage": "https://github.com/marian010/superbet-bot#readme"
 }
