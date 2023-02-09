@@ -4,7 +4,10 @@ const selectors = {
     loginPasswordInput: 'input[type="password"]',
     loginUsernameInput: 'input[name]',
     loginSubmitButton: 'button[type="submit"]:nth-child(3)', // not so happy about it
-    checkIfLoggedIn: '#nav-account',
+    checkIfLoggedIn: '#user-info',
+    iframeSelector: '#iframe-content',
+    checkForTimerSelector: 'div[class="timer-label"] > span',
+    spinButton: 'div[class="button-spin"]'
 }
 
 exports.selectors = selectors
