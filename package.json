@@ -19,6 +19,9 @@
         "automatization",
         "puppeteer"
     ],
+    "scripts": {
+        "spin": "node index.js"
+    },
     "author": "Adrian",
     "license": "ISC",
     "bugs": {
