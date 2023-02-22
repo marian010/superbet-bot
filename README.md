@@ -9,6 +9,8 @@ Please read these files first before starting:
 * [INSTALL.md](INSTALL.md) - How to use the software
 * [CONTRIBUTING.md](.github/CONTRIBUTING.md) - Pull requests are welcome!
 
+The best way to use the bot is by hosting it on a VPS or a local server with a Romanian IP address (as you cannot log in to Superbet from outside Romania).
+
 ## Built With
 
   - [Node.js]((https://nodejs.org/en/))
