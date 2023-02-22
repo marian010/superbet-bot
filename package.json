@@ -1,12 +1,13 @@
 {
     "name": "superbetbot",
-    "version": "1.0.0",
+    "version": "1.5.0",
     "description": "Bot for superbet.ro spin",
     "main": "index.js",
     "directories": {
         "lib": "lib"
     },
     "dependencies": {
+        "discord.js": "^14.7.1",
         "dotenv": "^16.0.3",
         "puppeteer": "^13.0.1"
     },
@@ -17,7 +18,9 @@
     "keywords": [
         "superbet",
         "automatization",
-        "puppeteer"
+        "puppeteer",
+        "discordjs",
+        "superbetbot"
     ],
     "scripts": {
         "spin": "node index.js"

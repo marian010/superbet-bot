@@ -6,7 +6,7 @@ const selectors = {
     loginSubmitButton: 'button[type="submit"]:nth-child(3)', // not so happy about it
     checkIfLoggedIn: '#user-info',
     iframeSelector: '#iframe-content',
-    checkForTimerSelector: 'div[class="timer-label"] > span',
+    checkForTimerSelector: 'div[class="timer hide"]',
     spinButton: 'div[class="button-spin"]'
 }
 
